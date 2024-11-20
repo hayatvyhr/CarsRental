@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "66478e79487550edb660f4f0"
+  },
+  "email": "m44@gmail.com",
+  "password": "$2b$12$.wwOPb4AScKvgrzgm9L46uQ/usdcNFR3F5GJMgr9wPvdyvCOFzznW",
+  "type": "manager"
+},
+{
+  "_id": {
+    "$oid": "66478ec6487550edb660f4f2"
+  },
+  "email": "d@gmail.com",
+  "password": "$2b$12$/d9CGvsIGsFHVRMzUHHtge4JFpP.fpo9wdvnkEN8DR0pHOTmwynUa",
+  "type": "manager"
+},
+{
+  "_id": {
+    "$oid": "6647906e487550edb660f4f4"
+  },
+  "email": "admin@gmail.com",
+  "password": "$2b$12$iks5xXhAPOp/7rf5UFAUQ.9m0g3y7YTN5Fk2ZRXOLD5i0dRaNtFaK",
+  "type": "admin"
+},
+{
+  "_id": {
+    "$oid": "66479306a0962ce0c01e5c19"
+  },
+  "email": "imane@gmail.com",
+  "password": "$2b$12$65AhWOWD7zwDt.9.1EFo7uLvA.8zztaorigjJeXadtjuezR.007hC",
+  "type": "admin"
+},
+{
+  "_id": {
+    "$oid": "664799c8d2cce57198bb57fb"
+  },
+  "email": "ahmed@gmail.com",
+  "password": "$2b$12$oaTM/SsoD5Rn82jtFx1b.uLLl7V2veFh13TbcBmtskl79b2ZHsAi.",
+  "type": "manager"
+},
+{
+  "_id": {
+    "$oid": "664799ead2cce57198bb57fd"
+  },
+  "email": "rihab@gmail.com",
+  "password": "$2b$12$wFnT35gZr.NgFXIGiflEcOd2cuJIQ87T/q415z7kCGKoePJvtKeP6",
+  "type": "manager"
+},
+{
+  "_id": {
+    "$oid": "66479a0ad2cce57198bb57ff"
+  },
+  "email": "wiam@gmail.com",
+  "password": "$2b$12$PIRcDBuj2dUDTePxFUEU/enD1.xRKbNMgKiVdVHxVGtiR3E0UY3WG",
+  "type": "admin"
+},
+{
+  "_id": {
+    "$oid": "66489f4d3725aee2a5ee1bc3"
+  },
+  "email": "wiam@gmail.com",
+  "password": "$2b$12$jjj4F392BQJTUfnNPJICXuxSQqRk7zAkrD/o7Amk5fwCyMtR0nMpy",
+  "type": "manager"
+},
+{
+  "_id": {
+    "$oid": "66489fc33725aee2a5ee1bc5"
+  },
+  "email": "aliaaa@gmail.com",
+  "password": "$2b$12$1PHnKSEvuOB5zzjWJ15eYOfciS9bjouMmjONfOR2F57D4fLjapnMu",
+  "type": "admin"
+},
+{
+  "_id": {
+    "$oid": "6648c15aa338d6b6cbce1aae"
+  },
+  "email": "meddd@gmail.com",
+  "password": "$2b$12$rGqgG5hLLBgxeu8VKyfoyu.ViheIG5mAKodI/wcSByPCsm7ALYLdm",
+  "type": "manager"
+},
+{
+  "_id": {
+    "$oid": "6648c1b2a338d6b6cbce1ab0"
+  },
+  "email": "taha@gmail.com",
+  "password": "$2b$12$8uOzQQ9O3uA.0gtDeCpDcOFnn9ZlcFn6q5wgMCvfOB/.Wx0sYDK6q",
+  "type": "admin"
+},
+{
+  "_id": {
+    "$oid": "6648cff236c489a9b6896180"
+  },
+  "email": "hayat@gmail.com",
+  "password": "$2b$12$8FL6z1WpWG7B8ip6F54B2O9f7gA8HTu.UHNgDGFPndoK..PQENrQS",
+  "type": "admin"
+}]

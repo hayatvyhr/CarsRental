@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "6647efe9275a90c10c888037"
+  },
+  "matricule": "456DEF",
+  "marque": "Renault",
+  "modele": "clioo",
+  "annee": "2018",
+  "couleur": "rouge",
+  "kilometrage": "11111",
+  "prix_location": "250",
+  "capacity": "5",
+  "fuel_type": "Diesel",
+  "transmission": "Manuelle",
+  "image": "pexels-nordic-overdrive-202768-627678.jpg",
+  "disponibilite": 0
+},
+{
+  "_id": {
+    "$oid": "6647f040275a90c10c888039"
+  },
+  "matricule": "F98372",
+  "marque": "BMW",
+  "modele": "X55",
+  "annee": "2020",
+  "couleur": "Bleu",
+  "kilometrage": "30000",
+  "prix_location": "300",
+  "capacity": "7",
+  "fuel_type": "Essence",
+  "transmission": "Manuelle",
+  "image": "pexels-mikebirdy-170811.jpg",
+  "disponibilite": 1
+},
+{
+  "_id": {
+    "$oid": "6647f7519b9affc57588c1b8"
+  },
+  "matricule": "M9829782",
+  "marque": "Ford",
+  "modele": "Focus",
+  "annee": "2023",
+  "couleur": "Blanc",
+  "kilometrage": "30000",
+  "prix_location": "200",
+  "capacity": "5",
+  "fuel_type": "Essence",
+  "transmission": "Manuelle",
+  "image": "pexels-mikebirdy-116675.jpg",
+  "disponibilite": 0
+},
+{
+  "_id": {
+    "$oid": "6648d1d636c489a9b6896183"
+  },
+  "matricule": "L993289",
+  "marque": "toyotaa",
+  "modele": "t2",
+  "annee": "2020",
+  "couleur": "bleu",
+  "kilometrage": "100",
+  "prix_location": "100",
+  "capacity": "5",
+  "fuel_type": "gasoline",
+  "transmission": "Manuelle",
+  "image": "pexels-mikebirdy-244206.jpg",
+  "disponibilite": 1
+},
+{
+  "_id": {
+    "$oid": "66496a6bd379e06b012e31e8"
+  },
+  "matricule": "o9273218",
+  "marque": "Dacia",
+  "modele": "m2",
+  "annee": "2013",
+  "couleur": "red",
+  "kilometrage": "2003030",
+  "prix_location": "1000",
+  "capacity": "5",
+  "fuel_type": "Essence",
+  "transmission": "Automatique",
+  "image": "pexels-pixabay-210019.jpg",
+  "disponibilite": 1
+},
+{
+  "_id": {
+    "$oid": "66496abbd379e06b012e31ea"
+  },
+  "matricule": "B763477",
+  "marque": "BMW",
+  "modele": "B3",
+  "annee": "2023",
+  "couleur": "Bleu",
+  "kilometrage": "30000",
+  "prix_location": "300",
+  "capacity": "2",
+  "fuel_type": "gasoline",
+  "transmission": "Manuelle",
+  "image": "pexels-nordic-overdrive-202768-627678.jpg",
+  "disponibilite": 1
+}]

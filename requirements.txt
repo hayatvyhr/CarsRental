@@ -1,0 +1,5 @@
+django==4.2.3
+django-bootstrap5==21.3
+bcrypt==3.2.2
+reportlab==3.6.12
+pymongo==4.3.3

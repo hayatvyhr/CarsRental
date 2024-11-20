@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "66478e79487550edb660f4f1"
+  },
+  "username": "stofff",
+  "name": "mustapha",
+  "tel": "0626548",
+  "archived": true,
+  "user_id": {
+    "$oid": "66478e79487550edb660f4f0"
+  }
+},
+{
+  "_id": {
+    "$oid": "66478ec6487550edb660f4f3"
+  },
+  "username": "dinaa",
+  "name": "dina",
+  "tel": "021453698",
+  "archived": false,
+  "user_id": {
+    "$oid": "66478ec6487550edb660f4f2"
+  }
+},
+{
+  "_id": {
+    "$oid": "664799c8d2cce57198bb57fc"
+  },
+  "username": "ahmed",
+  "name": "ahmed",
+  "tel": "032145692",
+  "archived": false,
+  "user_id": {
+    "$oid": "664799c8d2cce57198bb57fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "664799ead2cce57198bb57fe"
+  },
+  "username": "chiraaa",
+  "name": "rihab",
+  "tel": "55555555",
+  "archived": false,
+  "user_id": {
+    "$oid": "664799ead2cce57198bb57fd"
+  },
+  "password": "$2b$12$87OfLEI3WNIGcOZhnW2x0ObsGjD2P1LJSdr2SSBHb8rx314cGvrjO"
+},
+{
+  "_id": {
+    "$oid": "66489f4d3725aee2a5ee1bc4"
+  },
+  "username": "wiam",
+  "name": "wiam",
+  "tel": "453",
+  "archived": false,
+  "user_id": {
+    "$oid": "66489f4d3725aee2a5ee1bc3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66489fc33725aee2a5ee1bc6"
+  },
+  "username": "alia",
+  "name": "aliaaaaa",
+  "tel": "23123",
+  "archived": true,
+  "user_id": {
+    "$oid": "66489fc33725aee2a5ee1bc5"
+  },
+  "password": "12345"
+},
+{
+  "_id": {
+    "$oid": "6648c15aa338d6b6cbce1aaf"
+  },
+  "username": "med",
+  "name": "meddd",
+  "tel": "3423",
+  "archived": false,
+  "user_id": {
+    "$oid": "6648c15aa338d6b6cbce1aae"
+  },
+  "password": "123"
+}]

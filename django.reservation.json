@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6647fcad0f7f8579a5ab9922"
+  },
+  "cin": "L231325",
+  "date_debut": "2024-05-01",
+  "date_fin": "2024-05-10",
+  "voiture_id": "6647efe9275a90c10c888037",
+  "status": ""
+},
+{
+  "_id": {
+    "$oid": "6647ffb5927f8de967359c64"
+  },
+  "cin": "L22323",
+  "date_debut": "2024-05-23",
+  "date_fin": "2024-05-30",
+  "voiture_id": "6647f040275a90c10c888039",
+  "status": "accepted"
+},
+{
+  "_id": {
+    "$oid": "6648d24736c489a9b6896184"
+  },
+  "cin": "L231325",
+  "date_debut": "2024-06-01",
+  "date_fin": "2024-07-10",
+  "voiture_id": "6647efe9275a90c10c888037",
+  "status": ""
+},
+{
+  "_id": {
+    "$oid": "66494fb93b6c9689080c8326"
+  },
+  "cin": "L231325",
+  "date_debut": "2024-05-01",
+  "date_fin": "2024-05-03",
+  "voiture_id": "6647f040275a90c10c888039",
+  "status": "refused"
+}]

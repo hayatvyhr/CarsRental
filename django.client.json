@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6647f96e256bea62ada88da7"
+  },
+  "nom": "Haoudi",
+  "prenom": "wiam",
+  "cin": "L231325",
+  "email": "wiam@gmail.com",
+  "telephone": "0838272",
+  "address": "tetouan",
+  "image": "pexels-hannah-nelson-390257-1065084.jpg"
+},
+{
+  "_id": {
+    "$oid": "6647f99d256bea62ada88da9"
+  },
+  "nom": "Raissouni",
+  "prenom": "Taha",
+  "cin": "L22323",
+  "email": "taha@gmail.com",
+  "telephone": "0937423842",
+  "address": "Rabat",
+  "image": "pexels-stefanstefancik-91227.jpg"
+},
+{
+  "_id": {
+    "$oid": "6647f9c2256bea62ada88dab"
+  },
+  "nom": "Mohajer",
+  "prenom": "Alia",
+  "cin": "L9237218",
+  "email": "alia@gmail.com",
+  "telephone": "06783472874",
+  "address": "tetouan",
+  "image": "pexels-olly-733872.jpg"
+},
+{
+  "_id": {
+    "$oid": "6647fb040f7f8579a5ab991f"
+  },
+  "nom": "tahiri",
+  "prenom": "salam",
+  "cin": "M22223",
+  "email": "salam@gmail.com",
+  "telephone": "02342134",
+  "address": "tanger",
+  "image": null
+},
+{
+  "_id": {
+    "$oid": "6647fcd80f7f8579a5ab9924"
+  },
+  "nom": "bouali",
+  "prenom": "sara",
+  "cin": "K23213",
+  "email": "sara@gmail.com",
+  "telephone": "034234",
+  "address": "tetouan",
+  "image": null
+},
+{
+  "_id": {
+    "$oid": "6648d29336c489a9b6896186"
+  },
+  "nom": "Roubakhi ",
+  "prenom": "Hayat",
+  "cin": "34",
+  "email": "bu@gmail.com",
+  "telephone": "4334",
+  "address": "fnideq",
+  "image": "pexels-olly-733872.jpg"
+}]
